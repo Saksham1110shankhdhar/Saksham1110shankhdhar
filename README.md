@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Saksham Shankhdhar
 
-🎯 Aspiring Full Stack Developer | 🧠 DSA Learner | 👨‍🎓 B.Tech CSE (Lateral Entry)
+🎯 Aspiring Full Stack Developer | 🧠 DSA Learner | 👨‍🎓 B.Tech CSIT (Lateral Entry)
 
 I transitioned from Mechanical Engineering to Computer Science and am now focused on building practical skills with the MERN stack and strong DSA fundamentals. I'm currently in my 3rd year and open to internships or collaborations in full-stack development.
 
